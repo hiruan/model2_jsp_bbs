@@ -15,8 +15,8 @@ import dao.board.BoardDAO;
 
 /**
  * 게시판 삭제 서블릿 클래스
- * @since 2013.07.09
- * @author stoneis.pe.kr
+ * @since 2014.01.08
+ * @author hiruan
  */
 @WebServlet("/board/boardDeleteServlet")
 public class BoardDeleteServlet extends HttpServlet {

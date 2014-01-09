@@ -2,8 +2,8 @@ package model.board;
 
 /**
  * 게시판 모델 클래스
- * @since 2013.07.09
- * @author stoneis.pe.kr
+ * @since 2014.01.08
+ * @author hiruan
  */
 public class BoardModel {
 	

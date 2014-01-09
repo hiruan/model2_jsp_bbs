@@ -59,6 +59,6 @@
 		<input type="button" value="수정" onclick="goUrl('<%=request.getContextPath()%>/board/boardModifyServlet?num=<%=boardModel.getNum()%>&amp;pageNum=<%=pageNum%>&amp;searchType=<%=searchType%>&amp;searchText=<%=searchText%>');" />
 		<input type="button" value="삭제" onclick="deleteCheck('<%=request.getContextPath()%>/board/boardDeleteServlet?num=<%=boardModel.getNum()%>&amp;pageNum=<%=pageNum%>&amp;searchType=<%=searchType%>&amp;searchText=<%=searchText%>');" />
 	</p>
-	<br><br>model2 사용
+	<br><br>model2 JSP 게시판
 </body>
 </html>

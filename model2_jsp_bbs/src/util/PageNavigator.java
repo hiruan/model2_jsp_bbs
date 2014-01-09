@@ -2,8 +2,8 @@ package util;
 
 /**
  * 페이징 네비게이터 함수
- * @author stoneis.pe.kr
- * @since 2013.07.10
+ * @since 2014.01.08
+ * @author hiruan
  */
 public class PageNavigator {
 	

@@ -75,6 +75,6 @@
 		<input type="submit" value="글수정" />
 	</p>
 	</form>
-	<br><br>model2 사용
+	<br><br>model2 JSP 게시판
 </body>
 </html>

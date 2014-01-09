@@ -106,6 +106,6 @@
 		<input type="button" value="목록" onclick="goUrl('<%=request.getContextPath()%>/board/boardListServlet');" />
 		<input type="button" value="글쓰기" onclick="goUrl('<%=request.getContextPath()%>/board/boardWriteServlet');" />
 	</p>
-	<br><br>model2 사용
+	<br><br>model2 JSP 게시판
 </body>
 </html>
